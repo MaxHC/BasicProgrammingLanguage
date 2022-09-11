@@ -1,0 +1,1 @@
+write the code in input.txt and run with run.bat
